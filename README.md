@@ -1,4 +1,4 @@
-### Hi there, I'm Gowtham Munirathinam  <img src="https://github.com/gowtham9369/gowtham9369/hand-shake.gif" width="30px">
+### Hi there, I'm Gowtham Munirathinam  <img src="https://github.com/gowtham9369/gowtham9369/blob/master/hand-shake.gif" width="30px">
 
 Passionate Frontend Web Developer with a strong background in creating visually stunning and highly functional web applications. I specialize in frontend technologies such as HTML5, CSS3, and JavaScript, along with expertise in modern frameworks like React, Vue, and Angular. 
 
